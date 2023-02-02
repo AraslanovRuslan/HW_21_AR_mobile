@@ -1,6 +1,7 @@
-package tests.android.selenide;
+package tests.android.selenide.android;
 
 import org.junit.jupiter.api.Test;
+import tests.android.selenide.TestBase;
 
 import static com.codeborne.selenide.CollectionCondition.sizeGreaterThan;
 import static com.codeborne.selenide.Selectors.byClassName;
